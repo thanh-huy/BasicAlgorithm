@@ -2,6 +2,7 @@
 using namespace std;
 
 typedef tuple<double, char, string> student; //dinh nghia kieu student
+
 //Ham tao va tra ve tuple gom 3 thanh vien (double, char, string)
 tuple<double, char, string> get_student(int id)
 {
